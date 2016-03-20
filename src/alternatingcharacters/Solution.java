@@ -1,9 +1,11 @@
+package alternatingcharacters;
+
 import java.util.Scanner;
 
 /**
  * @link https://www.hackerrank.com/challenges/alternating-characters
  */
-public class AlternatingCharacters {
+public class Solution {
 
     public static int minDeletionsRequired(String s) {
         int minDeletion = 0;
